@@ -19,6 +19,8 @@
 
 - 📫 How to reach me **mathur.ishika2003@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/16dxe76bIwxTeh0VG0SPPebInjQJIH-vf/view?usp=sharing](https://drive.google.com/file/d/16dxe76bIwxTeh0VG0SPPebInjQJIH-vf/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/https://leetcode.com/u/ishikamathur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ishikamathur/" height="30" width="40" /></a>
@@ -32,19 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ishika123mathur&show_icons=true&locale=en" alt="ishika123mathur" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ishika123mathur&" alt="ishika123mathur" /></p>
-
-
-<!--
-**ishika123mathur/ishika123mathur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
